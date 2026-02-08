@@ -15,12 +15,21 @@
   "repository": "",
   "type": "module",
   "description": "vue-matrix-admin 是一个基于 vue3 + element-plus 实现的后台管理系统",
-  "scripts": {},
+  "scripts": {
+    "preinstall": "npx only-allow pnpm",
+    "dev": "turbo-run dev"
+  },
   "author": "",
   "license": "ISC",
   "engines": {
     "node": ">=20.19.0",
     "pnpm": ">=10.0.0"
+  },
+  "devDependencies": {
+    "vite": "catalog:",
+    "vue": "catalog:",
+    "vue-tsc": "catalog:",
+    "turbo": "catalog:"
   },
   "packageManager": "pnpm@10.29.1"
 }
