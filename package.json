@@ -1,0 +1,26 @@
+{
+  "name": "vue-matrix-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "keywords": [
+    "monorepo",
+    "turbo",
+    "matrix",
+    "matrix-admin",
+    "admin",
+    "vue3"
+  ],
+  "homepage": "",
+  "bugs": "",
+  "repository": "",
+  "type": "module",
+  "description": "vue-matrix-admin 是一个基于 vue3 + element-plus 实现的后台管理系统",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=20.19.0",
+    "pnpm": ">=10.0.0"
+  },
+  "packageManager": "pnpm@10.29.1"
+}
