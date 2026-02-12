@@ -7,7 +7,7 @@ hero:
   text: "企业级管理系统框架"
   tagline: 开箱即用，简单高效
   image:
-    src: https://unpkg.com/@vbenjs/static-source@0.1.7/source/logo-v1.webp
+    src: https://unpkg.com/@matrix-admin/static-source@1.0.0/img/logo.png
     alt: Vben Admin
   actions:
     - theme: brand
