@@ -1,5 +1,5 @@
 {
-  "name": "@matrix/static-source",
+  "name": "@matrix-admin/static-source",
   "version": "1.0.0",
   "description": "静态资源目录",
   "main": "index.js",
