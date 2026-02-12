@@ -10,3 +10,6 @@ catalog:
     vue-tsc: ^3.2.4
     turbo: ^2.7.6
     vitepress: ^1.6.4
+    '@iconify/vue': ^5.0.0
+    lucide-vue-next: ^0.553.0
+    unbuild: ^3.6.1

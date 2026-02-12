@@ -1,0 +1,23 @@
+{
+  "name": "@matrix-admin/icons",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "matrix 图标库",
+  "scripts": {
+    "build": "pnpm unbuild"
+  },
+  "files": [
+    "dist"
+  ],
+  "types": "./dist/index.d.ts",
+  "peerDependencies": {
+    "vue": "^3",
+    "@iconify/vue": "^5"
+  },
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.mjs"
+    }
+  }
+}

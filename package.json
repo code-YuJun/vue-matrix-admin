@@ -29,7 +29,8 @@
     "vite": "catalog:",
     "vue": "catalog:",
     "vue-tsc": "catalog:",
-    "turbo": "catalog:"
+    "turbo": "catalog:",
+    "unbuild": "catalog:"
   },
   "packageManager": "pnpm@10.29.1"
 }
